@@ -77,7 +77,7 @@ selic-forecast/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/KaiquePinhworker/selic-forecast.git
+git clone https://github.com/ispectr3/Previs-o-Selic.git
 cd selic-forecast
 ```
 
